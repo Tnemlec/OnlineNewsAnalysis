@@ -19,7 +19,7 @@ X = data
 def converter(x):
     x.astype(str)
     for index, value in x.items():
-        if int(value) >= 1500:
+        if int(value) >= 1400:
             x[index] = 'popular'
         else:
             x[index] = 'unpopular'
