@@ -24,8 +24,7 @@ In the modelization notebook, I tried different models and there is a conclusion
  How to use the API ?
  Open a terminal and lauch the app<i></i>.py file
 
-    C:> py app.py
-Now that the server is listening you can execute the client (API_client_exemple.py) and it will print you the accuracy of the prediction for the first 4000 elements. This can be modify in the API_client_exemple.py
+ Now that the server is listening you can execute the client (API_client_exemple.py) and it will print you the accuracy of the prediction for the first 4000 elements. This can be modify in the API_client_exemple.py
 
 # Credit
 
