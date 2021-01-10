@@ -1,6 +1,8 @@
 # OnlineNewsAnalysis
 Hello, my name is Clément LAJOUX, a student in Data Analysis and Artificial Intelligence at ESILV engineering school
 This is an analysis of the Online News dataset hosted on UCI.
+https://archive.ics.uci.edu/ml/datasets/online+news+popularity
+
 # Project content
 This project contains 4 main part :
 - Part 1. Powerpoint introduction
@@ -24,12 +26,12 @@ In the modelization notebook, I tried different models and there is a conclusion
  How to use the API ?
  Open a terminal and lauch the app<i></i>.py file
 
- Now that the server is listening you can execute the client (API_client_exemple.py) and it will print you the accuracy of the prediction for the first 4000 elements. This can be modify in the API_client_exemple.py
+ Now that the server is listening you can execute the client (API_client_exemple.py) and it will print you the accuracy of the prediction for the first 4000 elements. This can be modified in the API_client_exemple.py
 
 # Credit
 
 Thanks to :
-K. Fernandes, P. Vinagreand P. Cortez. A Proactive Intelligent DecisionSupport System for Predictingthe Popularityof Online News. Proceedingsof the 17th EPIA 2015 - PortugueseConferenceon ArtificialIntelligence, September, Coimbra, Portugal.
+K. Fernandes, P. Vinagreand P. Cortez. A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News. Proceedings of the 17th EPIA 2015 - Portuguese Conference on Artificial Intelligence, September, Coimbra, Portugal.
 
 For letting me use their work.
 
